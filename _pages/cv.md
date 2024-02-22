@@ -9,51 +9,47 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+## Education
+* B.A. in Chemistry and Earth Sciences, Columbia University, 2018
+    * Senior Thesis- *Deep Ocean Ventilation in the Southern Pacific Basin During Termination of the Last Ice Age*
+* Ph.D. in Climate Science, MIT-WHOI Joint Program in Oceanography (2024 expected)
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+## Research Experience
+* Woods Hole Oceanographic Institution (2019-Present)
+  * Advisors: Caroline Ummenhofer, Delia Oppo
+* Columbia University, Lamont Doherty Earth Observatory (2017-2019)
+  * Advisors: Jerry McManus, Robert Anderson
+* L'Oreal Research And Development (2017)
+  * Advisor: Heather Lee
+* Columbia University, Department of Earth and Environmental Engineering (2015-2016)
+  * Advisor: Irina Chernyshova
+  
+## Teaching Experience
+* Introduction to Climate Science (MIT Splash Program, Fall 2023)
+  * Developed and taught a one-day course introducing the climate system to high school students
+* Summer Math Review (MIT-WHOI, Summer 2023)
+  * Taught a course on signal processing and timeseries analysis to incoming graduate students
+* Joint Program Network (MIT-WHOI, Summer 2022)
+  * Devliered a class lecture on resources at MIT and WHOI to first year PhD students
+* Global Warming Science (MIT, Spring 2020)
+  * Graduate Teaching Assistant
+* General Chemistry Lab (Columbia University, Spring 2018)
+  * Undergraduate Teaching Assistant
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## Service and Leadership
+* World Climate Research Programme-CMIP7 (2023-Present)
+  * Data Analysis Working Group Member
+* AGU Fall Meeting (2023)
+  * Session Convenver for PP036: Understanding Past Climates and Environments of Monsoon Asia and the Indo-Pacific (Primary Liason)
+* Graduate Climate Conference (2021-Present)
+  * Co-chair At Large (2023)
+  * Co-chair of Audio/Visual (2022)
+  * Co-chair of Communications (2021)
+* JP-ASK (2019-2022)
+  * Board Member
+* JP Student Representatives (2021-2022)
+  * Department Rep for Geology and Geophysics
+  * President
+* WHOI Geology and Geophysics Faculty Search (2021)
+  * Student Committee Chair
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
