@@ -25,6 +25,7 @@ redirect_from:
   * Advisor: Irina Chernyshova
   
 ## Teaching Experience
+* MIT Abstracts Lecturer (Spring 2024)
 * Introduction to Climate Science (MIT Splash Program, Fall 2023)
   * Developed and taught a one-day course introducing the climate system to high school students
 * Summer Math Review (MIT-WHOI, Summer 2023)
@@ -37,6 +38,8 @@ redirect_from:
   * Undergraduate Teaching Assistant
 
 ## Service and Leadership
+* MIT Robotics & Climate Workshop (2024)
+  * Organizer
 * World Climate Research Programme-CMIP7 (2023-Present)
   * Data Analysis Working Group Member
 * AGU Fall Meeting (2023)
