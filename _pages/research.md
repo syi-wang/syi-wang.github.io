@@ -13,7 +13,7 @@ The Indonesian Throughflow (ITF) is a series of ocean passageways by which tropi
 
 ## Southeast Asian Rainfall Extremes
 
-<img src="/images/Fig5_01_30_24.jpg" width="800">
+<img src="/images/rainfall_extremes.jpg" width="800">
 
 Throughout the last millennium, Southeast Asia experienced periods of extended drought and severe flooding associated with variations in monsoonal rainfall. These rainfall extremes contributed to societal changes across Asia such as the Khmer Empire's abandonment of Angkor (15th century) and the collapse of the Ming Dynasty in China (17th Century). I am interested in understanding the various drivers of these past hydroclimate extremes. In a recent study, I utilized an ensemble of climate simulations (CEMS-LME) to quantify the internal and external contributions to multi-year extremes in Southeast Asia.
 
