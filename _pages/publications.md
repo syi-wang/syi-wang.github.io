@@ -6,16 +6,17 @@ author_profile: true
 ---
 
 ## Papers
-\*Denotes shared first-author
 
-1. **Wang S**, Ummenhofer CC, Oppo DW, Low-frequency coupling of the Indo-Pacific modulated by volcanic forcing (in prep)
-2. Ummenhofer CC\*, **Wang S**\*, Denniston RF, Murty SA, Oppo DW, Wanamaker A, Asmerom Y, Indo-Pacific basin interactions drove tropical rain belt width over the last millennium (under review to *Nature Geoscience*)
-3. **Wang S**, Ummenhofer CC, Murty SA, Nguyen HTT, Buckely B, Quantifying the internal and external drivers of Southeast Asian rainfall extremes on decadal timescales (under revision at *Climate Dynamics*)
-4. Willis C, **Wang S**, Walsh A, Jahns M, Halloran K, Kukshtel N, Bhatt E, (2023) Student-led mentoring system designed to lower barriers for graduate school applications *Oceanography* [Reprint](https://tos.org/oceanography/article/student-led-mentoring-system-designed-to-lower-barriers-for-graduate-school-applicants)
-5. Oppo DW, Lu W, Huang KF, Umling NE, Guo W, Yu J, Curry WB, Marchitto T, **Wang S** (2023) Deglacial temperature and carbonate saturation state variability in the tropical Atlantic at Antarctic Intermediate Water Depths *Paleoceanography and Paleoclimatology* [Reprint](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023PA004674)
-6. **Wang S**, Ummenhofer CC, Oppo DW, Murty SA, Wagner P, Boning CW, Biastoch A (2023) Freshwater contributions to decadal variability of the Indonesian Throughflow *Geophysical Research Letters* [Reprint](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023GL103906)
-7. Zhou Y, McManus JF, Jacobel AW, Costa KM, **Wang S**, Caraveo BA (2021) Enhanced iceberg discharge in the western North Atlantic during all Heinrich events of the last glaciation *Earth and Planetary Science Letters* [Reprint](https://www.sciencedirect.com/science/article/pii/S0012821X21001692)
-8. Pavia FJ, **Wang S**, Middleton J, Murray RW, Anderson RF (2021) Trace metal evidence for deglacial ventilation of the abyssal Pacific and Southern Oceans *Paleoceanography and Paleoclimatology* [Reprint](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021PA004226#:~:text=The%20presence%20of%20authigenic%20Mn,of%20late%2DPleistocene%20ice%20ages.)
+1. Wolf A, **Wang S**, Do-Trong Q, Breitenbach S, Patterson E, Bolger T, McGee D, Jost A, Griffiths M, Cole J, Johnson K, Imprint of global temperatures on the Asian monsoon as seen through speleothems and model simulations (in prep)
+2. Waitzmann D, **Wang S**, Oppo DW, Ummenhofer CC, Projected weakening of the Indonesian Throughflow and the impacts on heat and freshwater transports (in prep)
+3. **Wang S**, Ummenhofer CC, Oppo DW, Low-frequency coupling of the Indo-Pacific modulated by volcanic forcing (in prep)
+4. **Wang S**\*, Ummenhofer CC, Denniston RF, Murty SA, Oppo DW, Wanamaker A, Asmerom Y, Indo-Pacific basin interactions drove tropical rain belt width over the last millennium (to be resubmitted to *Nature Geoscience*)
+5. **Wang S**, Ummenhofer CC, Murty SA, Nguyen HTT, Buckely B, Quantifying the internal and external drivers of Southeast Asian rainfall extremes on decadal timescales (accepted at *Climate Dynamics*)
+6. Willis C, **Wang S**, Walsh A, Jahns M, Halloran K, Kukshtel N, Bhatt E, (2023) Student-led mentoring system designed to lower barriers for graduate school applications *Oceanography* [Reprint](https://tos.org/oceanography/article/student-led-mentoring-system-designed-to-lower-barriers-for-graduate-school-applicants)
+7. Oppo DW, Lu W, Huang KF, Umling NE, Guo W, Yu J, Curry WB, Marchitto T, **Wang S** (2023) Deglacial temperature and carbonate saturation state variability in the tropical Atlantic at Antarctic Intermediate Water Depths *Paleoceanography and Paleoclimatology* [Reprint](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023PA004674)
+8. **Wang S**, Ummenhofer CC, Oppo DW, Murty SA, Wagner P, Boning CW, Biastoch A (2023) Freshwater contributions to decadal variability of the Indonesian Throughflow *Geophysical Research Letters* [Reprint](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023GL103906)
+9. Zhou Y, McManus JF, Jacobel AW, Costa KM, **Wang S**, Caraveo BA (2021) Enhanced iceberg discharge in the western North Atlantic during all Heinrich events of the last glaciation *Earth and Planetary Science Letters* [Reprint](https://www.sciencedirect.com/science/article/pii/S0012821X21001692)
+10. Pavia FJ, **Wang S**, Middleton J, Murray RW, Anderson RF (2021) Trace metal evidence for deglacial ventilation of the abyssal Pacific and Southern Oceans *Paleoceanography and Paleoclimatology* [Reprint](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021PA004226#:~:text=The%20presence%20of%20authigenic%20Mn,of%20late%2DPleistocene%20ice%20ages.)
 
 ## Talks
 
