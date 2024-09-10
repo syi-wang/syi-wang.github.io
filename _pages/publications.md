@@ -24,7 +24,7 @@ author_profile: true
 
 ## Talks and Posters
 
-1. ** wang S**, Ummenhofer CC, Oppo DW, Denniston RF (2024) Indo-Pacific basin interactions over the past millennium *EGU General Assembly* (Oral)
+1. **Wang S**, Ummenhofer CC, Oppo DW, Denniston RF (2024) Indo-Pacific basin interactions over the past millennium *EGU General Assembly* (Oral)
 2.  **Wang S**, Ummenhofer CC, Oppo DW, Murty SA, Wagner P, Boning CW, Biastoch A (2024) Freshwater advection modulates Indonesian Throughflow surface transport on decadal timescales, *University of British Columbia, Physical Oceanography Seminar* (Oral)
 3. **Wang S**, Oppo DW, Ummenhofer CC, Nguyen HTT (2023) Proxy-based assessment of coupling between the Pacific and Indian Ocean Walker Circulations over the last four centuries, *AGU Fall Meeting* (Poster)
 4. **Wang S**, Galochkina M, Najaran H, Liu A, Mahesh A, Moskvichev R, Nsude C, Willis C, Puxley B, (2023) The Graduate Climate Conference: Insights on a Community-Driven Student Conference and its Merits for Early-Career Researchers, *AGU Fall Meeting* (Oral)
