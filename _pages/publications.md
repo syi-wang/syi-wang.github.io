@@ -5,7 +5,7 @@ permalink: /papers/
 author_profile: true
 ---
 
-## Submitted and In Prep Papers
+## Submitted and In-Prep Papers
 
 1. Wolf A, **Wang S**, Do-Trong Q, Breitenbach S, Patterson E, Bolger T, McGee D, Jost A, Griffiths M, Cole J, Johnson K, Imprint of global temperatures on the Asian monsoon as seen through speleothems and model simulations (in prep)
 2. Waitzmann D, **Wang S**, Oppo DW, Ummenhofer CC, Projected weakening of the Indonesian Throughflow and the impacts on heat and freshwater transports (in prep)
@@ -15,7 +15,7 @@ author_profile: true
 
 ## Published Papers
 
-1. **Wang S**, Ummenhofer CC, Murty SA, Nguyen HTT, Buckely B, (2024) Quantifying the internal and external drivers of Southeast Asian rainfall extremes on decadal timescales *Climate Dynamics* (in press)
+1. **Wang S**, Ummenhofer CC, Murty SA, Nguyen HTT, Buckely B, (2024) Quantifying the internal and external drivers of Southeast Asian rainfall extremes on decadal timescales *Climate Dynamics* [Reprint](https://link.springer.com/article/10.1007/s00382-024-07412-x)
 2. Willis C, **Wang S**, Walsh A, Jahns M, Halloran K, Kukshtel N, Bhatt E, (2023) Student-led mentoring system designed to lower barriers for graduate school applications *Oceanography* [Reprint](https://tos.org/oceanography/article/student-led-mentoring-system-designed-to-lower-barriers-for-graduate-school-applicants)
 3. Oppo DW, Lu W, Huang KF, Umling NE, Guo W, Yu J, Curry WB, Marchitto T, **Wang S** (2023) Deglacial temperature and carbonate saturation state variability in the tropical Atlantic at Antarctic Intermediate Water Depths *Paleoceanography and Paleoclimatology* [Reprint](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023PA004674)
 4.  **Wang S**, Ummenhofer CC, Oppo DW, Murty SA, Wagner P, Boning CW, Biastoch A (2023) Freshwater contributions to decadal variability of the Indonesian Throughflow *Geophysical Research Letters* [Reprint](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023GL103906)
