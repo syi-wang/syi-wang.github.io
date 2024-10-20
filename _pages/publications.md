@@ -10,8 +10,8 @@ author_profile: true
 1. Wolf A, **Wang S**, Do-Trong Q, Breitenbach S, Patterson E, Bolger T, McGee D, Jost A, Griffiths M, Cole J, Johnson K, Imprint of global temperatures on the Asian monsoon as seen through speleothems and model simulations (in prep)
 2. Waitzmann D, **Wang S**, Oppo DW, Ummenhofer CC, Projected weakening of the Indonesian Throughflow and the impacts on heat and freshwater transports (in prep)
 3. **Wang S**, Ummenhofer CC, Oppo DW, Low-frequency coupling of the Indo-Pacific modulated by volcanic forcing (in prep)
-4. **Wang S**, Ummenhofer CC, Denniston RF, Murty SA, Oppo DW, Wanamaker A, Asmerom Y, Indo-Pacific basin interactions drove tropical rain belt width over the last millennium (to be resubmitted to *Nature Geoscience*)
-5. Lu W, Oppo DW, Condron A, Liu Z, Zhu C, Lynch-Stieglitz J, Guo W, Hess A, **Wang S**, Anomalous warmth in upper Atlantic during deglaciation and early Holocene (under review at *Science*)
+4. **Wang S**, Ummenhofer CC, Denniston RF, Murty SA, Oppo DW, Wanamaker A, Asmerom Y, Indo-Pacific basin interactions drove tropical rain belt width over the last millennium (in prep for resubmission to *Nature Geoscience*)
+5. Lu W, Oppo DW, Condron A, Liu Z, Zhu C, Lynch-Stieglitz J, Guo W, Hess A, **Wang S**, Anomalous warmth in upper Atlantic during deglaciation and early Holocene (under review at *Nature Geoscience*)
 
 ## Published Papers
 
