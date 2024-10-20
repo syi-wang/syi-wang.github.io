@@ -25,6 +25,8 @@ redirect_from:
   * Advisor: Irina Chernyshova
   
 ## Teaching Experience
+* Climate Change Science Seminar (MIT, Fall 2024)
+  * Delivered a class lecture on tipping points in monsoon systems
 * MIT Abstracts Lecturer (Spring 2024)
 * Introduction to Climate Science (MIT Splash Program, Fall 2023)
   * Developed and taught a one-day course introducing the climate system to high school students
@@ -42,8 +44,9 @@ redirect_from:
   * Organizer
 * World Climate Research Programme-CMIP7 (2023-Present)
   * Data Analysis Working Group Member
-* AGU Fall Meeting (2023)
-  * Session Convenver for PP036: Understanding Past Climates and Environments of Monsoon Asia and the Indo-Pacific (Primary Liason)
+* AGU Fall Meeting Session Convener
+  * PP036: Understanding Past Climates and Environments of Monsoon Asia and the Indo-Pacific (2023)
+  * PP11A: Advancing Paleoclimatology by Combining Data, Models, and Theory (2024)
 * Graduate Climate Conference (2021-Present)
   * Co-chair At Large (2023)
   * Co-chair of Audio/Visual (2022)
