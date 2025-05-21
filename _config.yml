@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Shouyi (Shawn) Wang"
   avatar           : "ProfilePic.jpg"
-  bio              : "PhD Candidate at MIT and WHOI"
-  location         : "Cambridge, MA"
+  bio              : "Postdoctoral Investigator at WHOI"
+  location         : "Woods Hole, MA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=UIZ7838AAAAJ&hl=en"
-  email            : "syiwang@mit.edu"
+  email            : "swang@whoi.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
