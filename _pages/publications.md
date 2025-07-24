@@ -7,7 +7,7 @@ author_profile: true
 
 ## Submitted and In-Prep Papers
 
-1.  **Wang S**, Ummenhofer CC, Oppo DW, Coupling of Pacific and Indian Ocean varability disrupted by 19th century volcanism (under re-review at *Nature Communications*)
+1.  **Wang S**, Ummenhofer CC, Oppo DW, Coupling of Pacific and Indian Ocean variability disrupted by 19th century volcanism (under re-review at *Nature Communications*)
 2. **Wang S**, Ummenhofer CC, Denniston RF, Murty SA, Oppo DW, Wanamaker A, Asmerom Y, Basin-interactions drove Austral-Asian rainbelt width during the Common Era (in prep for resubmission to *Nature Geoscience*)
 3. Wolf A, **Wang S**, Do-Trong Q, Breitenbach S, Patterson E, Bolger T, McGee D, Jost A, Griffiths M, Cole J, Johnson K, Changes in onset and withdrawal drive Asian Monsoon trends in past and future (under review at *Nature Geoscience*)
 4.  **Wang S**, Waitzmann D, Oppo DW, Ummenhofer CC, Remote and regional drivers of the Indonesian Throughflow under future warming: Implications for inter-basin freshwater transport (under review at *Geophysical Research Letters*)
