@@ -7,16 +7,16 @@ author_profile: true
 
 ## Submitted and In-Prep Papers
 
-1.  **Wang S**, Ummenhofer CC, Oppo DW, Coupling of Pacific and Indian Ocean variability disrupted by 19th century volcanism (under re-review at *Nature Communications*)
-2. **Wang S**, Ummenhofer CC, Denniston RF, Murty SA, Oppo DW, Wanamaker A, Asmerom Y, Basin-interactions drove Austral-Asian rainbelt width during the Common Era (in prep for resubmission to *Nature Geoscience*)
-3. Wolf A, **Wang S**, Do-Trong Q, Breitenbach S, Patterson E, Bolger T, McGee D, Jost A, Griffiths M, Cole J, Johnson K, Changes in onset and withdrawal drive Asian Monsoon trends in past and future (under review at *Nature Geoscience*)
-4.  **Wang S**, Waitzmann D, Oppo DW, Ummenhofer CC, Remote and regional drivers of the Indonesian Throughflow under future warming: Implications for inter-basin freshwater transport (under re-review at *Geophysical Research Letters*)
+1.  **Wang S**, Ummenhofer CC, Oppo DW, Coupling of Pacific and Indian Ocean variability disrupted by 19th century volcanism (in re-review at *Nature Communications*)
+2. **Wang S**, Ummenhofer CC, Denniston RF, Murty SA, Oppo DW, Wanamaker A, Asmerom Y, Basin-interactions drove Austral-Asian rainbelt width during the Common Era (in revision for *Nature Geoscience*)
+3. Wolf A, **Wang S**, Do-Trong Q, Breitenbach S, Patterson E, Bolger T, McGee D, Jost A, Griffiths M, Cole J, Johnson K, Changes in onset and withdrawal drive Asian Monsoon trends in past and future (in review at *Nature Geoscience*)
+4.  **Wang S**, Waitzmann D, Oppo DW, Ummenhofer CC, Remote and regional drivers of the Indonesian Throughflow under future warming: Implications for inter-basin freshwater transport (in re-review at *Geophysical Research Letters*)
 5.  Murty SA, Ummenhofer CC, **Wang S**, Gruenburg L, Biastoch A, Boning C, Drivers of Indo-Pacific upper ocean heat and freshwater variability using a synthesis of coral proxies and ocean models (in prep)
 6.  Hess A, **Wang S**, Ummenhofer CC, Rosenthal Y, Oppo DW, Pacific Walker Circulation Strengthening During the Little Ice Age (in prep)
 
 ## Published Papers
 
-1. Papalia A, Dawson C, Anton LL, ... **Wang S**, Carlone L, Kumar V, Rus D, Fernandez JE, Wu C, Kantor G, Young D, Singh H (2025) A Roadmap for Climate-Relevant Robotics Research *arxiv* [White Paper](https://arxiv.org/abs/2507.11623)
+1. Papalia A, Dawson C, Anton LL, ... **Wang S**, Carlone L, Kumar V, Rus D, Fernandez JE, Wu C, Kantor G, Young D, Singh H (2025) A Roadmap for Climate-Relevant Robotics Research *arXiv* [White Paper](https://arxiv.org/abs/2507.11623)
 2. Lu W, Oppo DW, Condron A, Liu Z, Zhu C, Lynch-Stieglitz J, Guo W, Hess A, **Wang S** (2025) Warmer shallow Atlantic during deglaciation and Early Holocene due to weaker overturning circulation *Nature Geoscience* [Reprint](https://www.nature.com/articles/s41561-025-01751-y)
 3.  **Wang S**, Ummenhofer CC, Murty SA, Nguyen HTT, Buckely B, (2024) Quantifying the internal and external drivers of Southeast Asian rainfall extremes on decadal timescales *Climate Dynamics* [Reprint](https://link.springer.com/article/10.1007/s00382-024-07412-x)
 4. Willis C, **Wang S**, Walsh A, Jahns M, Halloran K, Kukshtel N, Bhatt E, (2023) Student-led mentoring system designed to lower barriers for graduate school applications *Oceanography* [Reprint](https://tos.org/oceanography/article/student-led-mentoring-system-designed-to-lower-barriers-for-graduate-school-applicants)
