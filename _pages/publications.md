@@ -15,7 +15,7 @@ author_profile: true
 
 ## Published Papers
 
-1. **Wang S**, Waitzmann D, Oppo DW, Ummenhofer CC (2025) Remote and regional drivers of the Indonesian Throughflow under future warming: Implications for inter-basin freshwater transport *Geophysical Research Letters* (accepted)
+1. **Wang S**, Waitzmann D, Oppo DW, Ummenhofer CC (2025) Remote and regional drivers of the Indonesian Throughflow under future warming: Implications for inter-basin freshwater transport *Geophysical Research Letters* [Reprint](https://doi.org/10.1029/2025GL119514)
 2. Papalia A, Dawson C, Anton LL, ... **Wang S**, Carlone L, Kumar V, Rus D, Fernandez JE, Wu C, Kantor G, Young D, Singh H (2025) A Roadmap for Climate-Relevant Robotics Research *arXiv* [White Paper](https://arxiv.org/abs/2507.11623)
 3. Lu W, Oppo DW, Condron A, Liu Z, Zhu C, Lynch-Stieglitz J, Guo W, Hess A, **Wang S** (2025) Warmer shallow Atlantic during deglaciation and Early Holocene due to weaker overturning circulation *Nature Geoscience* [Reprint](https://www.nature.com/articles/s41561-025-01751-y)
 4.  **Wang S**, Ummenhofer CC, Murty SA, Nguyen HTT, Buckely B, (2024) Quantifying the internal and external drivers of Southeast Asian rainfall extremes on decadal timescales *Climate Dynamics* [Reprint](https://link.springer.com/article/10.1007/s00382-024-07412-x)
