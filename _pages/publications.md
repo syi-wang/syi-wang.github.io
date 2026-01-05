@@ -7,11 +7,12 @@ author_profile: true
 
 ## Submitted and In-Prep Papers
 
-1.  **Wang S**, Ummenhofer CC, Oppo DW, Coupling of Pacific and Indian Ocean variability disrupted by 19th century volcanism (in re-review at *Nature Communications*)
+1.  **Wang S**, Ummenhofer CC, Oppo DW, Coupling of Pacific and Indian Ocean variability disrupted by 19th century volcanism (in revision at *Nature Communications*)
 2. **Wang S**, Ummenhofer CC, Denniston RF, Murty SA, Oppo DW, Wanamaker A, Asmerom Y, Basin-interactions drove Austral-Asian rainbelt width during the Common Era (in revision for *Nature Geoscience*)
 3. Wolf A, **Wang S**, Do-Trong Q, Breitenbach S, Patterson E, Bolger T, McGee D, Jost A, Griffiths M, Cole J, Johnson K, Changes in onset and withdrawal drive Asian Monsoon trends in past and future (in review at *Nature Geoscience*)
-4. Hess A, **Wang S**, Ummenhofer CC, Rosenthal Y, Oppo DW, Pacific Walker Circulation Strengthening During the Little Ice Age (submitted to *Science Advances*)
-5.  Murty SA, Ummenhofer CC, **Wang S**, Gruenburg L, Biastoch A, Boning C, Drivers of Indo-Pacific upper ocean heat and freshwater variability using a synthesis of coral proxies and ocean models (in prep)
+4. Hess A, **Wang S**, Ummenhofer CC, Rosenthal Y, Oppo DW, Pacific Walker Circulation Strengthening During the Little Ice Age (in review *Science Advances*)
+5. **Wang S**, Capotondi A, Karnauskas K, Sanchez S, Xu T, Mechanisms of persistent heatwaves in the tropical Atlantic (in prep)
+6.  Murty SA, Ummenhofer CC, **Wang S**, Gruenburg L, Biastoch A, Boning C, Drivers of Indo-Pacific upper ocean heat and freshwater variability using a synthesis of coral proxies and ocean models (in prep)
 
 ## Published Papers
 
