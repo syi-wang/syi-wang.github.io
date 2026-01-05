@@ -10,12 +10,15 @@ redirect_from:
 {% include base_path %}
 
 ## Education
-* B.A. in Chemistry and Earth Sciences, Columbia University, 2018
+* B.A. in Chemistry and Earth Sciences, Columbia University, May 2018
     * Senior Thesis- *Deep Ocean Ventilation in the Southern Pacific Basin During Termination of the Last Ice Age*
-* Ph.D. in Climate Science, MIT-WHOI Joint Program in Oceanography (2024 expected)
+* Ph.D. in Climate Science, MIT-WHOI Joint Program in Oceanography, February 2025
+    * Dissertation- *Decadal to centennial-scale climate interactions across the Indo-Pacific region*
 
 ## Research Experience
-* Woods Hole Oceanographic Institution (2019-Present)
+* University of Colorado, Boulder (2025-Present)
+  * Advisors: Antonietta Capotondi, Sara Sanchez, Kris Karnauskas
+* Woods Hole Oceanographic Institution (2019-2025)
   * Advisors: Caroline Ummenhofer, Delia Oppo
 * Columbia University, Lamont Doherty Earth Observatory (2017-2019)
   * Advisors: Jerry McManus, Robert Anderson
