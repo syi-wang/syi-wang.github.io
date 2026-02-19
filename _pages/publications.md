@@ -40,7 +40,7 @@ author_profile: true
 
 ## Invited Seminars
 
-1. **Wang S**, Capotondi A, Karnauskas K, Sanchez S, Xu T (2026) The drivers of and spatial patterns of sea surface temperature variability in the tropical Atlantic *NOOA Phyiscal Sciences Laboratory, AOPP Division Meeting* 
+1. **Wang S**, Capotondi A, Karnauskas K, Sanchez S, Xu T (2026) The drivers of and spatial patterns of sea surface temperature variability in the tropical Atlantic *NOAA Phyiscal Sciences Laboratory, AOPP Division Meeting* 
 2. **Wang S**, Capotondi A, Karnauskas K, Sanchez S (2025) Contributions of Pacific teleconnections and local processes to the 2023/24 concurrent heatwaves in the tropical Atlantic *Woods Hole Oceanographic Institution, Climate and Paleo Seminar* 
 3. **Wang S**, Oppo DW, Ummenhofer CC (2024) Low-frequency Indo-Pacific coupling modulated by volcanic forcing, *Yale University, Climate Science Seminar*
 4. **Wang S**, Ummenhofer CC, Oppo DW, Murty SA, Wagner P, Boning CW, Biastoch A (2024) Freshwater advection modulates Indonesian Throughflow surface transport on decadal timescales, *University of British Columbia, Physical Oceanography Seminar*
