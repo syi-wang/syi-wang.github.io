@@ -26,16 +26,22 @@ author_profile: true
 8. Zhou Y, McManus JF, Jacobel AW, Costa KM, **Wang S**, Caraveo BA (2021) Enhanced iceberg discharge in the western North Atlantic during all Heinrich events of the last glaciation *Earth and Planetary Science Letters* [Reprint](https://www.sciencedirect.com/science/article/pii/S0012821X21001692)
 9. Pavia FJ, **Wang S**, Middleton J, Murray RW, Anderson RF (2021) Trace metal evidence for deglacial ventilation of the abyssal Pacific and Southern Oceans *Paleoceanography and Paleoclimatology* [Reprint](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021PA004226#:~:text=The%20presence%20of%20authigenic%20Mn,of%20late%2DPleistocene%20ice%20ages.)
 
-## Talks and Posters
+## Conference Proceedings
 
 1. **Wang S**, Capotondi A, Karnauskas K, Sanchez S (2025) ENSO teleconnections and TNA diversity contributed to the 2023/24 marine heatwave in the tropical Atlantic *AGU Fall Meeting* (Poster)
 2. **Wang S**, Ummenhofer CC, Oppo DW, Waitzmann D, Hess A (2025) Paleoclimate and modeling insights into Indonesian Throughflow variability across past, present, and future climates *AOGS Annual Meeting (Invited Talk)* 
 3. **Wang S**, Ummenhofer CC, Denniston RF, Oppo DW, Murty SA (2024) Drivers of coherent interhemispheric rainfall variability across Australia-Asia during the Common Era *AGU Fall Meeting* (Poster)
 4.  **Wang S**, Ummenhofer CC, Oppo DW, Denniston RF (2024) Indo-Pacific basin interactions over the past millennium *EGU General Assembly* (Oral)
-5.  **Wang S**, Ummenhofer CC, Oppo DW, Murty SA, Wagner P, Boning CW, Biastoch A (2024) Freshwater advection modulates Indonesian Throughflow surface transport on decadal timescales, *University of British Columbia, Physical Oceanography Seminar* (Oral)
-6. **Wang S**, Oppo DW, Ummenhofer CC, Nguyen HTT (2023) Proxy-based assessment of coupling between the Pacific and Indian Ocean Walker Circulations over the last four centuries, *AGU Fall Meeting* (Poster)
-7. **Wang S**, Galochkina M, Najaran H, Liu A, Mahesh A, Moskvichev R, Nsude C, Willis C, Puxley B, (2023) The Graduate Climate Conference: Insights on a Community-Driven Student Conference and its Merits for Early-Career Researchers, *AGU Fall Meeting* (Oral)
-8. **Wang S**, Ummenhofer CC, Murty SA, Nguyen HT, Buckley B (2022) Drivers of Decadal Rainfall Variability in Mainland Southeast Asia: Insights from Tree-Ring Reconstructions and the Last Millennium Ensemble, *AGU Fall Meeting* (Oral)
+5. **Wang S**, Oppo DW, Ummenhofer CC, Nguyen HTT (2023) Proxy-based assessment of coupling between the Pacific and Indian Ocean Walker Circulations over the last four centuries, *AGU Fall Meeting* (Poster)
+6. **Wang S**, Galochkina M, Najaran H, Liu A, Mahesh A, Moskvichev R, Nsude C, Willis C, Puxley B, (2023) The Graduate Climate Conference: Insights on a Community-Driven Student Conference and its Merits for Early-Career Researchers, *AGU Fall Meeting* (Oral)
+7. **Wang S**, Ummenhofer CC, Murty SA, Nguyen HT, Buckley B (2022) Drivers of Decadal Rainfall Variability in Mainland Southeast Asia: Insights from Tree-Ring Reconstructions and the Last Millennium Ensemble, *AGU Fall Meeting* (Oral)
 9. Ummenhofer CC, Denniston RF, **Wang S**, Murty SA, Oppo DW (2022) Two millennia of tropical rain belt expansion and contraction driven by Pacific decadal variability, *AGU Fall Meeting* (Poster)
-10. **Wang S**, Ummenhofer CC, Murty SA (2022) Relative Contributions of Internal and External Drivers for Decadal Rainfall Extremes in Mainland Southeast Asia Over the Last Millennium, *CLIVAR Climate Dynamics Panel Annual Workshop* (Oral)
 11. **Wang S**, Pavia FJ, Anderson RF, Murray RW (2019). Authigenic Mn as a Proxy for Southern Ocean Bottom Water Ventilation During Last Deglaciation, *AGU Fall Meeting* (Poster)
+
+## Invited Seminars
+
+1. **Wang S**, Capotondi A, Karnauskas K, Sanchez S, Xu T (2026) The drivers of and spatial patterns of sea surface temperature variability in the tropical Atlantic *NOOA Phyiscal Sciences Laboratory, AOPP Division Meeting* 
+2. **Wang S**, Capotondi A, Karnauskas K, Sanchez S (2025) Contributions of Pacific teleconnections and local processes to the 2023/24 concurrent heatwaves in the tropical Atlantic *Woods Hole Oceanographic Institution, Climate and Paleo Seminar* 
+3. **Wang S**, Oppo DW, Ummenhofer CC (2024) Low-frequency Indo-Pacific coupling modulated by volcanic forcing, *Yale University, Climate Science Seminar*
+4. **Wang S**, Ummenhofer CC, Oppo DW, Murty SA, Wagner P, Boning CW, Biastoch A (2024) Freshwater advection modulates Indonesian Throughflow surface transport on decadal timescales, *University of British Columbia, Physical Oceanography Seminar*
+5. **Wang S**, Ummenhofer CC, Murty SA (2022) Relative Contributions of Internal and External Drivers for Decadal Rainfall Extremes in Mainland Southeast Asia Over the Last Millennium, *CLIVAR Climate Dynamics Panel Annual Workshop*
