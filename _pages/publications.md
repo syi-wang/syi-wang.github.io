@@ -40,8 +40,9 @@ author_profile: true
 
 ## Invited Seminars
 
-1. **Wang S**, Capotondi A, Karnauskas K, Sanchez S, Xu T (2026) The drivers and spatial patterns of sea surface temperature variability in the tropical Atlantic *NOAA Phyiscal Sciences Laboratory, AOPP Division Meeting* 
-2. **Wang S**, Capotondi A, Karnauskas K, Sanchez S (2025) Contributions of Pacific teleconnections and local processes to the 2023/24 concurrent heatwaves in the tropical Atlantic *Woods Hole Oceanographic Institution, Climate and Paleo Seminar* 
-3. **Wang S**, Oppo DW, Ummenhofer CC (2024) Low-frequency Indo-Pacific coupling modulated by volcanic forcing, *Yale University, Climate Science Seminar*
-4. **Wang S**, Ummenhofer CC, Oppo DW, Murty SA, Wagner P, Boning CW, Biastoch A (2024) Freshwater advection modulates Indonesian Throughflow surface transport on decadal timescales, *University of British Columbia, Physical Oceanography Seminar*
-5. **Wang S**, Ummenhofer CC, Murty SA (2022) Relative Contributions of Internal and External Drivers for Decadal Rainfall Extremes in Mainland Southeast Asia Over the Last Millennium, *CLIVAR Climate Dynamics Panel Annual Workshop*
+1. Pacific winds and AMOC drive Indonesian Throughflow decline under future warming (2026) *Korea-US Indian Ocean Study (KUDOS) Workshop*
+2. The drivers and spatial patterns of sea surface temperature variability in the tropical Atlantic (2026) *NOAA Phyiscal Sciences Laboratory, AOPP Division Meeting* 
+3. Contributions of Pacific teleconnections and local processes to the 2023/24 concurrent heatwaves in the tropical Atlantic (2025) *Woods Hole Oceanographic Institution, Climate and Paleo Seminar* 
+4. Low-frequency Indo-Pacific coupling modulated by volcanic forcing (2024) *Yale University, Climate Science Seminar*
+5. Freshwater advection modulates Indonesian Throughflow surface transport on decadal timescales (2024) *University of British Columbia, Physical Oceanography Seminar*
+6. Relative Contributions of Internal and External Drivers for Decadal Rainfall Extremes in Mainland Southeast Asia Over the Last Millennium (2023) *CLIVAR Climate Dynamics Panel Annual Workshop*
