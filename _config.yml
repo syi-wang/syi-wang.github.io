@@ -83,7 +83,7 @@ author:
   name             : "Shouyi (Shawn) Wang"
   avatar           : "ProfilePic.jpg"
   bio              : "Postdoctoral Fellow at CU Boulder"
-  location         : "Bouder, CO"
+  location         : "Boulder, CO"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=UIZ7838AAAAJ&hl=en"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "sywang2"
+  twitter          : # "sywang2"
   vine             :
   weibo            :
   xing             :
