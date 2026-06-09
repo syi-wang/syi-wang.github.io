@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Shouyi (Shawn) Wang"
+title                    : "Shawn Wang"
 title_separator          : "-"
-name                     : &name "Shouyi (Shawn) Wang"
+name                     : &name "Shawn Wang"
 description              : &description "Postdoctoral Investigator at WHOI"
 url                      : https://syi-wang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Shouyi (Shawn) Wang"
+  name             : "Shawn Wang"
   avatar           : "ProfilePic.jpg"
   bio              : "Postdoctoral Fellow at CU Boulder"
   location         : "Boulder, CO"
