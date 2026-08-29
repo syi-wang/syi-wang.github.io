@@ -15,7 +15,7 @@ author_profile: true
 ## Published Papers
 
 1. Hess A, **Wang S**, Ummenhofer CC, Rosenthal Y, Oppo DW (2026) A Strong Pacific Walker Circulation During the Little Ice Age *Science Advances* (accepted)
-2. **Wang S**, Ummenhofer CC, Oppo DW (2026) Coupling of Pacific and Indian Ocean variability disrupted by 19th century volcanism *Nature Communications* (in press)
+2. **Wang S**, Ummenhofer CC, Oppo DW (2026) Coupling of Pacific and Indian Ocean variability disrupted by 19th century volcanism *Nature Communications* [Reprint](https://doi.org/10.1038/s41467-026-76705-y)
 3. **Wang S**, Waitzmann D, Oppo DW, Ummenhofer CC (2026) Remote and regional drivers of the Indonesian Throughflow under future warming: Implications for inter-basin freshwater transport *Geophysical Research Letters* [Reprint](https://doi.org/10.1029/2025GL119514)
 4. Papalia A, Dawson C, Anton LL, ... **Wang S**, Carlone L, Kumar V, Rus D, Fernandez JE, Wu C, Kantor G, Young D, Singh H (2025) A Roadmap for Climate-Relevant Robotics Research *arXiv* [White Paper](https://arxiv.org/abs/2507.11623)
 5. Lu W, Oppo DW, Condron A, Liu Z, Zhu C, Lynch-Stieglitz J, Guo W, Hess A, **Wang S** (2025) Warmer shallow Atlantic during deglaciation and Early Holocene due to weaker overturning circulation *Nature Geoscience* [Reprint](https://www.nature.com/articles/s41561-025-01751-y)
