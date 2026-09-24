@@ -15,7 +15,7 @@ author_profile: true
 ## Published Papers
 
 1. Murty SA, Ummenhofer CC, **Wang S**, Gruenburg L, Biastoch A, Boning C, Drivers of Indo-Pacific upper ocean heat and freshwater variability using a synthesis of coral proxies and ocean models *Climate Dynamics* (accepted)
-2. Hess A, **Wang S**, Ummenhofer CC, Rosenthal Y, Oppo DW (2026) A Strong Pacific Walker Circulation During the Little Ice Age *Science Advances* (in press)
+2. Hess A, **Wang S**, Ummenhofer CC, Rosenthal Y, Oppo DW (2026) A Strong Pacific Walker Circulation During the Little Ice Age *Science Advances* [Reprint](https://www.science.org/doi/10.1126/sciadv.aee8322)
 3. **Wang S**, Ummenhofer CC, Oppo DW (2026) Coupling of Pacific and Indian Ocean variability disrupted by 19th century volcanism *Nature Communications* [Reprint](https://doi.org/10.1038/s41467-026-76705-y)
 4. **Wang S**, Waitzmann D, Oppo DW, Ummenhofer CC (2026) Remote and regional drivers of the Indonesian Throughflow under future warming: Implications for inter-basin freshwater transport *Geophysical Research Letters* [Reprint](https://doi.org/10.1029/2025GL119514)
 5. Papalia A, Dawson C, Anton LL, ... **Wang S**, Carlone L, Kumar V, Rus D, Fernandez JE, Wu C, Kantor G, Young D, Singh H (2025) A Roadmap for Climate-Relevant Robotics Research *arXiv* [White Paper](https://arxiv.org/abs/2507.11623)
