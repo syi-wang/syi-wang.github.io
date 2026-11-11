@@ -11,7 +11,7 @@ author_profile: true
 2. Wolf A, **Wang S**, Do-Trong Q, Breitenbach S, Patterson E, Bolger T, McGee D, Jost A, Griffiths M, Cole J, Johnson K, Changes in onset and withdrawal drive Asian Monsoon trends in past and future (in review at *Nature Geoscience*)
 3. **Wang S**, Capotondi A, Karnauskas K, Sanchez S, Xu T, The Diversity of Tropical North Atlantic Warming Events is Explained by Interactions between Two Atlantic Modes of Variability (in review at *Journal of Climate*)
 4. **Wang S**, Sanchez S, Capotondi A, Karnauskas K, Non-stationarity in the relationship between ENSO amplitude and the AMV over the past millennium (in prep)
-5. Shaw J, Kamp W, **Wang S**, Bugge A, Nataraja V, Bertran L, Energetic impacts of stratospheric aerosol injection (in prep)
+5. Shaw J, Kamp W, **Wang S**, Bugge A, Nataraja V, Bertrand L, Energetic impacts of stratospheric aerosol injection (in prep)
 
 ## Published Papers
 
